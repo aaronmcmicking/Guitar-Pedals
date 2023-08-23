@@ -23,3 +23,7 @@ so there was no confusion on the process.
 ![The individual pedal components laid out on a table](/Silismile%20Fuzz%20(Arbiter%20Fuzz%20Face)/photos/parts.jpg)
 
 ![The board with almost all components soldered onto it](/Silismile%20Fuzz%20(Arbiter%20Fuzz%20Face)/photos/board_soldered.jpg)
+
+![The completed internals of the pedal](/Silismile%20Fuzz%20(Arbiter%20Fuzz%20Face)/photos/completed_internals.jpg)
+
+![The completed pedal](/Silismile%20Fuzz%20(Arbiter%20Fuzz%20Face)/photos/completed_box.jpg)
